@@ -3,9 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Mike Wild'
-SITENAME = u'Blog'
-SITEURL = ''
+SITENAME = u'Mike Wild'
+SITEURL = 'http://mikeanthonywild.com'
 THEME = u'/Users/mike/Development/blog-theme'
+FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR 
 
 PATH = 'content'
 
@@ -30,7 +31,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
