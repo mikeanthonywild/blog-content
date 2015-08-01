@@ -6,7 +6,7 @@ AUTHOR = u'Mike Wild'
 SITENAME = u'Mike Wild'
 SITEURL = 'http://mikeanthonywild.com'
 THEME = u'/Users/mike/Development/blog-theme'
-FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR 
+FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR
 
 PATH = 'content'
 

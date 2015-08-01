@@ -1,6 +1,6 @@
 Title: Software bloat
 Date: 2015-07-25 19:53
-Modified: 2015-07-25 22:56
+Modified: 2015-08-01 17:19
 
 This post is inspired by an [article written by Maciej Cegłowski](http://idlewords.com/talks/web_design_first_100_years.htm) on the subject of wastefulness in modern software.
 
@@ -23,40 +23,40 @@ A decade later, it has grown to an enormous *13.7 MB* and takes over 16 seconds 
 
 As expected, we see that the amount of image data has increased dramatically, making up a disproportionately high percentage of all content. Also surprising is the sheer amount of JavaScript being loaded – 1.3 MB. The Daily Mail homepage is almost entirely static – what on earth is 1.3 MB of JS code being used for? Here's what's being loaded:
 
-* `AjaxPoll.js`- Daily Mail daily poll
-* `engine.js` - Direct Web Remoting
-* `log.pinterest.com` - Unknown, Pinterest
-* `pid=a6f7193ab778cdd9bb61ba871b8de7ca` - Crowd Control analytics
-* `BrightcoveExperiences.js` - Brightcove video platform
-* `trinity.js` - Sonobi APEX advertising
-* `cb=gapi.loaded_0` - Unknown Google API
-* `plusone.js` - Google Plus API
-* `cygnus` - Casalmedia advertising
-* `pinit_main.js` - Pinterest API
-* `pinit.js` - Pinterest API
-* `beacon.js` - ScorecardResearch tracking
-* `fpc=y` - Crowd Control analytics
-* `impl.169-3-RELEASE.js` - Taboola advertising
-* `loader.js` - Taboola advertising
-* `all.js` - Facebook SDK
-* `fbds.js` - Facebook tracking
-* `actvt` - Audience Science tracking
-* `channels.cgi` - Unknown Daily Mail
-* `dm.js` - Optimax Media Delivery advertising
-* `gw.js` - Audience Science advertising
-* `cross-check.js` - Unknown Taboola
-* `jstag` - OpenX advertising
-* `expansion_embed.js` - Google advertising
-* `osd.js` - Google advertising
-* `pubads_impl_68r2.js` - Google advertising
-* `226531683.js` - Audience Science tracking
-* `widgets.js` - Twitter widget
-* `rta.js` - Criteo advertising
-* `async_bundle--.js` - Daily Mail tracking
-* `fff.js` - Daily Mail mobile UI?
-* `googleads--.js` - Google Ads
-* `sync_bundle.js` - Unknown, Daily Mail
-* `gpt.js` - Google Publisher Tags
+* **AjaxPoll.js** - Daily Mail daily poll
+* **engine.js** - Direct Web Remoting
+* **log.pinterest.com** - Unknown, Pinterest
+* **pid=a6f7193ab778cdd9bb61ba871b8de7ca** - Crowd Control analytics
+* **BrightcoveExperiences.js** - Brightcove video platform
+* **trinity.js** - Sonobi APEX advertising
+* **cb=gapi.loaded_0** - Unknown Google API
+* **plusone.js** - Google Plus API
+* **cygnus** - Casalmedia advertising
+* **pinit_main.js** - Pinterest API
+* **pinit.js** - Pinterest API
+* **beacon.js** - ScorecardResearch tracking
+* **fpc=y** - Crowd Control analytics
+* **impl.169-3-RELEASE.js** - Taboola advertising
+* **loader.js** - Taboola advertising
+* **all.js** - Facebook SDK
+* **fbds.js** - Facebook tracking
+* **actvt** - Audience Science tracking
+* **channels.cgi** - Unknown Daily Mail
+* **dm.js** - Optimax Media Delivery advertising
+* **gw.js** - Audience Science advertising
+* **cross-check.js** - Unknown Taboola
+* **jstag** - OpenX advertising
+* **expansion_embed.js** - Google advertising
+* **osd.js** - Google advertising
+* **pubads_impl_68r2.js** - Google advertising
+* **226531683.js** - Audience Science tracking
+* **widgets.js** - Twitter widget
+* **rta.js** - Criteo advertising
+* **async_bundle--.js** - Daily Mail tracking
+* **fff.js** - Daily Mail mobile UI?
+* **googleads--.js** - Google Ads
+* **sync_bundle.js** - Unknown, Daily Mail
+* **gpt.js** - Google Publisher Tags
 
 Granted, none of these items were researched very thoroughly; nonetheless, it's a clear abuse of JavaScript for tracking and advertising purposes.
 
