@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Mike Wild'
 SITENAME = u'Mike Wild'
 SITEURL = 'http://mikeanthonywild.com'
-THEME = u'C:/Users/mwild/Development/blog-theme'
+THEME = u'/Users/mwild/Development/blog-theme'
 FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR
 
 PATH = 'content'
