@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mike Wild'
 SITENAME = u'Mike Wild'
-SITEURL = 'http://mikeanthonywild.com'
+SITEURL = 'https://mikeanthonywild.com'
 THEME = u'C:/Users/mwild/Development/blog-theme'
 FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR
 
@@ -15,7 +15,7 @@ TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
