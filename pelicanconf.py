@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mike Wild'
 SITENAME = u'Mike Wild'
-SITEURL = 'https://mikeanthonywild.com'
+SITEURL = 'https://mikeanthonywild.com' # Only valid for local dev
 THEME = u'/Users/mike/Development/blog-theme'
-FOOTERTEXT = u'Content and design copyright © 2015 ' + AUTHOR
+FOOTERTEXT = u'Content and design copyright © 2015 \
+<a href="https://twitter.com/mikeanthonywild">{}</a>'.format(AUTHOR)
 
 PATH = 'content'
 
