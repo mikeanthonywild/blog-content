@@ -13,7 +13,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 production = 'mike@mothership.mikeanthonywild.com:22'
-dest_path = '/usr/local/www/nginx'
+dest_path = '/usr/local/www/nginx/mikeanthonywild.com'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
