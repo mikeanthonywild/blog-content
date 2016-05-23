@@ -13,6 +13,6 @@ To overcome the monochromatic nature of photosensors, a Colour Filter Array is p
 
 Each pixel of the filter aligns directly with the underlying photosensor, letting only a single band of light through. Bryce Bayer, the technique's original inventor, used two green pixels for every red and blue pixel, mimicking the distribution of receptors in the human eye. Knowing the exact Bayer pattern used, it's possible to generate a colour image from the light intensity data of each photosensor, resulting in the image below.
 
-![Colour-coded Bayer Filter output]({filename}/images/bayer_output.png)
+![Colour-coded Bayer Filter output]({filename}/images/bayer_output.jpg){: class="u-max-full-width" }
 
 *Image: Wikimedia Commons under CC - https://upload.wikimedia.org/wikipedia/commons/d/de/Normal_and_Bayer_Filter_%28120px-Colorful_spring_garden%29.png*
