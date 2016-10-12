@@ -6,7 +6,7 @@ AUTHOR = u'Mike Wild'
 SITENAME = u'Mike Wild'
 SITEURL = 'https://mikeanthonywild.com' # Only valid for local dev
 THEME = u'/home/mike/Development/blog-theme'
-FOOTERTEXT = u'Content and design copyright © 2015 \
+FOOTERTEXT = u'Content and design copyright © 2016 \
 <a href="https://twitter.com/mikeanthonywild">{}</a>'.format(AUTHOR)
 
 PATH = 'content'
