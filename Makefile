@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=mothership.mikeanthonywild.com
-SSH_PORT=2222
+SSH_HOST=bangersandmash.mikeanthonywild.com
+SSH_PORT=22
 SSH_USER=mike
-SSH_TARGET_DIR=/usr/local/www/nginx
+SSH_TARGET_DIR=/var/www/mikeanthonywild.com
 
 S3_BUCKET=my_s3_bucket
 
