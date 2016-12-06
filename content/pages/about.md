@@ -3,6 +3,7 @@ Title: About
 Personal notes on electronic engineering and software development.
 
 ### Social
+- [Keybase](https://keybase.io/mikeanthonywild)
 - [GitHub](https://github.com/mikeanthonywild)
 - [LinkedIn](https://www.linkedin.com/in/mike-wild-629b2339)
 - [Twitter](https://twitter.com/mikeanthonywild)
