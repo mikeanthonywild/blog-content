@@ -1,0 +1,3 @@
+[submodule "theme"]
+	path = theme
+	url = git@github.com:mikeanthonywild/blog-theme.git
