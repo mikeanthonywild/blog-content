@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mikeanthonywild
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikeanthonywild.com
+  * I am mikeanthonywild (https://keybase.io/mikeanthonywild) on keybase.
+  * I have a public key ASAxTuG7keAYsntdJ0wF1G-aXK7S_zbEgMpG7jEJq_zUYgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120314ee1bb91e018b27b5d274c05d46f9a5caed2ff36c480ca46ee3109abfcd4620a",
+            "host": "keybase.io",
+            "kid": "0120314ee1bb91e018b27b5d274c05d46f9a5caed2ff36c480ca46ee3109abfcd4620a",
+            "uid": "ffdc0f0f72058d92f8807c399e160419",
+            "username": "mikeanthonywild"
+        },
+        "service": {
+            "hostname": "mikeanthonywild.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1481102335,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1481102286,
+        "hash": "e6e548d46b988a520ab1d5994ac2b06dd8f71803ed96b85e445b7ad3fd682353ec7d83e5e9ad992aa63ddc158e58e45c474850f25a27461dceaa1c5986a146a4",
+        "seqno": 751167
+    },
+    "prev": "9a14a13cf03e08d2f53772f8edd61109ec16fbafd6e86b4dcdc9a0ebd14d00e2",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMU7hu5HgGLJ7XSdMBdRvmlyu0v82xIDKRu4xCav81GIKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzE0ZWUxYmI5MWUwMThiMjdiNWQyNzRjMDVkNDZmOWE1Y2FlZDJmZjM2YzQ4MGNhNDZlZTMxMDlhYmZjZDQ2MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzE0ZWUxYmI5MWUwMThiMjdiNWQyNzRjMDVkNDZmOWE1Y2FlZDJmZjM2YzQ4MGNhNDZlZTMxMDlhYmZjZDQ2MjBhIiwidWlkIjoiZmZkYzBmMGY3MjA1OGQ5MmY4ODA3YzM5OWUxNjA0MTkiLCJ1c2VybmFtZSI6Im1pa2VhbnRob255d2lsZCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWlrZWFudGhvbnl3aWxkLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgxMTAyMzM1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODExMDIyODYsImhhc2giOiJlNmU1NDhkNDZiOTg4YTUyMGFiMWQ1OTk0YWMyYjA2ZGQ4ZjcxODAzZWQ5NmI4NWU0NDViN2FkM2ZkNjgyMzUzZWM3ZDgzZTVlOWFkOTkyYWE2M2RkYzE1OGU1OGU0NWM0NzQ4NTBmMjVhMjc0NjFkY2VhYTFjNTk4NmExNDZhNCIsInNlcW5vIjo3NTExNjd9LCJwcmV2IjoiOWExNGExM2NmMDNlMDhkMmY1Mzc3MmY4ZWRkNjExMDllYzE2ZmJhZmQ2ZTg2YjRkY2RjOWEwZWJkMTRkMDBlMiIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCieNJMFYJNll26yoUE+5BoP3ag7MVfoNa8QATLQ7LPfjeKRW3ZSVZYyVpXlipW4CIjZ9xzGCJ+z4ihQjnNURASoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDSyX9NDieoOgZu1x5MhMkas02aVC8rLOSErjaHMkVpeKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikeanthonywild
+
+==================================================================

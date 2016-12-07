@@ -10,6 +10,8 @@ FOOTERTEXT = u'Content and design by \
 <a href="https://twitter.com/mikeanthonywild">{}</a>'.format(AUTHOR)
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'extra/keybase.txt']
+EXTRA_PATH_METADATA = {'extra/keybase.txt': {'path': 'keybase.txt'}}
 
 TIMEZONE = 'Europe/London'
 
