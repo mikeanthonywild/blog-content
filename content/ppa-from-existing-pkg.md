@@ -42,8 +42,8 @@ Debian configuration data is stored under `debian`. To modify the options used t
                 --with-editline=yes \
                 --enable-xspice \
                 --enable-cider \
-                --disable-debug) \
-                --with-ngshared
+                --disable-debug \
+                --with-ngshared)
 ```
 
 ## Signing and uploading
@@ -68,3 +68,5 @@ $ dput ppa:mikewild/ngspice-shared ../ngspice_26-1.1ubuntu1_source.changes
 ```
 
 Launchpad should hopefully take care of building packages from here...
+
+If modifications need to be made, then you'll need to repeat the process: update the changenotes, rebuild and upload to Launchpad.
