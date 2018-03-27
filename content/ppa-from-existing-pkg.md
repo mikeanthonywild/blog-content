@@ -21,6 +21,7 @@ The Docker image for Ubuntu doesn't have the source repositories enabled by defa
 ```shell
 # apt-get update
 # apt-get install gnupg pbuilder ubuntu-dev-tools apt-file
+# apt-get build-dep ngspice
 $ apt-get source ngspice
 ```
 
